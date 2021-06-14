@@ -4,4 +4,5 @@
 2. Configure tomcat 
     2.1 Use taxi_service:war exploded
     2.2 leave @Application contex@ : "/"
-3. Build project.
+3. Insert configuration data to src/main/java/mate/util/ConnectionUtil.java
+4. Build project.
